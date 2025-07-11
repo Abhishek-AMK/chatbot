@@ -72,6 +72,4 @@
 
 ## Authors
 
-This repository is maintained by the [Vercel](https://vercel.com) team and community contributors.
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or fix bugs.
+This repository is maintained by the Abhishek Kulkarni(https://github.com/Abhishek-AMK)
